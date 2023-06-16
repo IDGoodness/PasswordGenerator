@@ -25,6 +25,17 @@ body {
                  26px -26px 100px green;
 }
 
+.box h1{
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 26px;
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 36px;
+    border-radius: 41px;
+    border-radius: 41px;
+}
+
 .box h2{
     margin-bottom: 40px;
     text-align: center;
@@ -78,7 +89,7 @@ input::placeholder{
 }
   
 .btn2{
-    margin-left: 85px
+    margin-left: 75px
 }
   
 #button:hover {
